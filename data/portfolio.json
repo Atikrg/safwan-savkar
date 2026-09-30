@@ -1,0 +1,437 @@
+{
+  "site": {
+    "url": "https://example.com",
+    "urlPlaceholder": true,
+    "title": "Safwan Savkar | Network Security Engineer",
+    "titleTemplate": "%s | Safwan Savkar",
+    "description": "Safwan S. Savkar is a Network Security Engineer in Mumbai, India. Firewall implementation, policy management and security operations with SonicWall, Sophos, Check Point and Cisco ASA across banking and enterprise environments.",
+    "locale": "en_IN",
+    "author": "Safwan S. Savkar",
+    "themeColor": {
+      "dark": "#070b14",
+      "light": "#f5f8fd"
+    },
+    "keywords": [
+      "Network Security Engineer",
+      "Firewall Engineer",
+      "SonicWall",
+      "Sophos Firewall",
+      "Check Point",
+      "Cisco ASA",
+      "Network Security Mumbai",
+      "ISO 27001 Lead Implementer"
+    ]
+  },
+  "person": {
+    "name": "Safwan S. Savkar",
+    "firstName": "Safwan",
+    "lastName": "Savkar",
+    "initials": "SS",
+    "brandLabel": "netsec",
+    "jobTitle": "Network Security Engineer",
+    "location": {
+      "city": "Mumbai",
+      "country": "India",
+      "label": "Mumbai, India"
+    },
+    "email": "safwansavkar01@gmail.com",
+    "linkedin": {
+      "label": "linkedin.com/in/safwansavkar",
+      "href": "https://linkedin.com/in/safwansavkar"
+    }
+  },
+  "nav": [
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Project",
+      "href": "#project"
+    },
+    {
+      "label": "Certs",
+      "href": "#certs"
+    },
+    {
+      "label": "Education",
+      "href": "#education"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "hero": {
+    "terminalLine": "securing enterprise perimeters since 2022",
+    "lede": "Firewall implementation, policy management, and security operations across banking and enterprise environments.",
+    "session": [
+      {
+        "prompt": "whoami",
+        "output": "safwan.s — network security engineer"
+      },
+      {
+        "prompt": "location",
+        "output": "mumbai, india"
+      },
+      {
+        "prompt": "firewalls",
+        "output": "sonicwall · sophos · checkpoint · cisco asa"
+      },
+      {
+        "prompt": "current",
+        "output": "resident engineer @ hitachi systems (indusind bank)"
+      },
+      {
+        "prompt": "cert",
+        "output": "iso/iec 27001:2022 lead implementer · g-110864"
+      }
+    ],
+    "status": "available for network security roles",
+    "actions": [
+      {
+        "label": "View experience",
+        "href": "#experience",
+        "variant": "primary",
+        "icon": "arrow"
+      },
+      {
+        "label": "Download resume",
+        "href": "/resume.pdf",
+        "variant": "ghost",
+        "icon": "download",
+        "download": true
+      },
+      {
+        "label": "Contact me",
+        "href": "#contact",
+        "variant": "ghost",
+        "icon": "mail"
+      }
+    ],
+    "chips": [
+      {
+        "icon": "pin",
+        "text": "Mumbai, India"
+      },
+      {
+        "icon": "shield",
+        "text": "Banking & enterprise environments"
+      },
+      {
+        "icon": "server",
+        "text": "SonicWall · Sophos · Check Point · Cisco ASA"
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "[01] about",
+    "heading": "Securing the perimeter, day to day",
+    "body": "Network Security Engineer with hands-on experience in firewall implementation, configuration, and enterprise security operations. Experienced with SonicWall, Sophos, Check Point, and Cisco ASA firewalls in implementation and banking environments.",
+    "stats": [
+      {
+        "value": "3+ years",
+        "label": "in networking and security"
+      },
+      {
+        "value": "4",
+        "label": "firewall platforms"
+      },
+      {
+        "value": "Banking",
+        "label": "sector experience"
+      },
+      {
+        "value": "ISO 27001",
+        "label": "Lead Implementer"
+      }
+    ]
+  },
+  "skills": {
+    "eyebrow": "[02] skills",
+    "heading": "What I work with",
+    "lede": "Core platforms, day-to-day firewall operations, and the process around them.",
+    "groups": [
+      {
+        "title": "Firewall platforms",
+        "icon": "shield",
+        "description": "Implementation and management across four enterprise firewall families.",
+        "tags": [
+          "SonicWall",
+          "Sophos Firewall",
+          "Check Point",
+          "Cisco ASA"
+        ]
+      },
+      {
+        "title": "Firewall operations",
+        "icon": "filter",
+        "description": "Rule design, review and change implementation on production policies.",
+        "tags": [
+          "access policy creation",
+          "security rules",
+          "NAT configuration"
+        ]
+      },
+      {
+        "title": "Deployment & migration",
+        "icon": "swap",
+        "description": "Greenfield rollouts and platform migrations carried out with the client.",
+        "tags": [
+          "VPN configuration",
+          "firewall migration",
+          "SonicWall → Sophos"
+        ]
+      },
+      {
+        "title": "Maintenance",
+        "icon": "tool",
+        "description": "Keep the platform current, licensed and recoverable.",
+        "tags": [
+          "firmware upgrades",
+          "backup & restore",
+          "license registration"
+        ]
+      },
+      {
+        "title": "Security operations",
+        "icon": "pulse",
+        "description": "Watching the perimeter and responding when something needs a look.",
+        "tags": [
+          "log monitoring",
+          "incident handling"
+        ]
+      },
+      {
+        "title": "Process",
+        "icon": "clipboard",
+        "description": "Changes implemented with the right people in the loop.",
+        "tags": [
+          "change implementation",
+          "client coordination"
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "eyebrow": "[03] experience",
+    "heading": "Where I've worked",
+    "jobs": [
+      {
+        "role": "Resident Network Security Engineer",
+        "org": "Hitachi Systems India Pvt. Ltd.",
+        "client": "IndusInd Bank",
+        "location": "Mumbai",
+        "period": "March 2025 – Present",
+        "periodShort": "Mar 2025 – Present",
+        "current": true,
+        "points": [
+          "Manage Check Point and Cisco ASA firewalls in a banking environment",
+          "Create and modify access control and security policies",
+          "Configure NAT rules and implement change requests",
+          "Monitor firewall logs and handle incident calls",
+          "Perform weekly firewall configuration backups",
+          "Coordinate with IT teams for secure implementation"
+        ]
+      },
+      {
+        "role": "Network Security Engineer",
+        "org": "ITCG Technologies LLP",
+        "location": "Mumbai",
+        "period": "April 2024 – March 2025",
+        "periodShort": "Apr 2024 – Mar 2025",
+        "points": [
+          "Configured and deployed SonicWall and Sophos firewalls",
+          "Gathered client requirements and implemented firewall solutions",
+          "Performed firmware upgrades and backup/restore activities",
+          "Registered and activated firewall licenses",
+          "Executed firewall migration from SonicWall to Sophos"
+        ]
+      },
+      {
+        "role": "Field Support Engineer",
+        "org": "Wysetek Systems Technologists Pvt. Ltd.",
+        "location": "Mumbai",
+        "period": "May 2022 – December 2023",
+        "periodShort": "May 2022 – Dec 2023",
+        "points": [
+          "Performed on-site firewall/device installations and rack mounting",
+          "Verified hardware serial numbers and equipment inventory",
+          "Provided console access to L2/L3 engineers",
+          "Coordinated with clients during upgrade activities"
+        ]
+      }
+    ]
+  },
+  "project": {
+    "eyebrow": "[04] case study",
+    "title": "Firewall migration: SonicWall → Sophos",
+    "tags": [
+      "SonicWall",
+      "Sophos Firewall",
+      "Migration"
+    ],
+    "attribution": {
+      "org": "ITCG Technologies LLP",
+      "role": "Network Security Engineer",
+      "location": "Mumbai",
+      "period": "April 2024 – March 2025"
+    },
+    "blocks": [
+      {
+        "title": "Challenge",
+        "body": "[placeholder — add the client's reason for moving off SonicWall, e.g. hardware refresh, contract change, or policy-rationalisation need]",
+        "placeholder": true
+      },
+      {
+        "title": "What I did",
+        "body": "Gathered client requirements and implemented the firewall solution. Configured and deployed Sophos firewalls alongside the existing SonicWall estate, performed firmware upgrades and backup/restore activities, registered and activated firewall licenses, and executed the migration from SonicWall to Sophos.",
+        "placeholder": false
+      },
+      {
+        "title": "Outcome",
+        "body": "[add outcome — e.g. cut-over window, number of sites or policies migrated, confirmation of zero downtime]",
+        "placeholder": true
+      }
+    ],
+    "footerTags": [
+      "requirements gathering",
+      "deployment",
+      "firmware",
+      "backup / restore",
+      "licensing",
+      "cut-over"
+    ]
+  },
+  "certs": {
+    "eyebrow": "[05] credentials",
+    "heading": "Credentials",
+    "certifications": [
+      {
+        "title": "ISO/IEC 27001:2022 Certified Lead Implementer",
+        "issuer": "GAQM",
+        "issued": "Issued 03 January 2026",
+        "credentialId": "G-110864",
+        "icon": "shield",
+        "verifyLabel": "Verify",
+        "verifyHref": "#",
+        "verifyPlaceholder": true
+      }
+    ]
+  },
+  "education": {
+    "eyebrow": "[06] education",
+    "heading": "Education",
+    "lede": "B.Sc. Computer Science from the University of Mumbai, 2021.",
+    "entries": [
+      {
+        "title": "B.Sc. Computer Science",
+        "institution": "University of Mumbai",
+        "grade": {
+          "label": "CGPI",
+          "value": "7.62"
+        },
+        "icon": "cap",
+        "period": "2021"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "[07] contact",
+    "heading": "Get in touch",
+    "lede": "Open to network security roles and firewall implementation work. The quickest route is email or LinkedIn.",
+    "channels": [
+      {
+        "type": "email",
+        "icon": "mail",
+        "label": "Email",
+        "value": "safwansavkar01@gmail.com",
+        "href": "mailto:safwansavkar01@gmail.com"
+      },
+      {
+        "type": "linkedin",
+        "icon": "linkedin",
+        "label": "LinkedIn",
+        "value": "linkedin.com/in/safwansavkar",
+        "href": "https://linkedin.com/in/safwansavkar",
+        "external": true
+      },
+      {
+        "type": "location",
+        "icon": "pin",
+        "label": "Location",
+        "value": "Mumbai, India"
+      }
+    ],
+    "form": {
+      "nameLabel": "Name",
+      "namePlaceholder": "Your name",
+      "nameError": "Please enter your name.",
+      "emailLabel": "Email",
+      "emailPlaceholder": "you@example.com",
+      "emailError": "Please enter a valid email address.",
+      "messageLabel": "Message",
+      "messagePlaceholder": "How can I help?",
+      "messageError": "Please add a short message.",
+      "submitLabel": "Open in email",
+      "note": "No backend — submitting opens your own email client with the message pre-filled.",
+      "subjectPrefix": "Portfolio enquiry from"
+    }
+  },
+  "footer": {
+    "copyright": "© 2026 Safwan S. Savkar",
+    "tagline": "Built with care, secured by design"
+  },
+  "themes": [
+    {
+      "id": "phosphor",
+      "name": "phosphor",
+      "swatch": "#00ff9c",
+      "blurb": "green CRT on near-black. the classic terminal."
+    },
+    {
+      "id": "amber",
+      "name": "amber",
+      "swatch": "#ffb000",
+      "blurb": "amber monochrome, like an old vt220."
+    },
+    {
+      "id": "cyan",
+      "name": "cyan",
+      "swatch": "#22d3ee",
+      "blurb": "cold blue terminal. sharper, less retro."
+    },
+    {
+      "id": "ice",
+      "name": "ice",
+      "swatch": "#7ff5ea",
+      "blurb": "pale mint on black. low-glare, easy on the eyes."
+    },
+    {
+      "id": "paper",
+      "name": "paper",
+      "swatch": "#8a8a8a",
+      "blurb": "no colour at all. ink on paper, either way round."
+    },
+    {
+      "id": "crimson",
+      "name": "crimson",
+      "swatch": "#ff3b4d",
+      "blurb": "mission-control red. errors turn amber to stand out."
+    },
+    {
+      "id": "violet",
+      "name": "violet",
+      "swatch": "#b388ff",
+      "blurb": "synthwave purple, late-80s terminal."
+    }
+  ]
+}
